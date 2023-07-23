@@ -1,0 +1,1 @@
+<span style="color: blue"> Whats up im SudoPinez! im a young aspiring programmer I like cybersecurity, hacking (actual hacking), python, and most of all I like terminals. maybe one day ill make a project but this just a hobby I doubt i will make something revolutionary anyway yea basicly. </span>
