@@ -1,1 +1,5 @@
-<span style="color: blue"> Whats up im SudoPinez! im a young aspiring programmer I like cybersecurity, hacking (actual hacking), python, and most of all I like terminals. maybe one day ill make a project but this just a hobby I doubt i will make something revolutionary anyway yea basicly. </span>
+👋 **Hi i'm SudoPinez**
+🐍 **I'm currently learning python and ethical hacking**
+🥉 **I have made .bat windows files and maybe one succesful python script**
+🤖 **You can expect just some python passion projects from me nothing more nothing less.**
+
